@@ -1,2 +1,2 @@
 # gitverkefni
-[þetta er linkur](http://www.tskoli.is)
+[TækniSkólinn](http://www.tskoli.is)
